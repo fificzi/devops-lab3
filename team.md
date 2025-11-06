@@ -1,4 +1,4 @@
 # Informacje o członku zespołu
 Imię: Filip 
 Nazwisko: Woźniak 
-Ulubiona technologia: AI
+Ulubiona technologia: Python
